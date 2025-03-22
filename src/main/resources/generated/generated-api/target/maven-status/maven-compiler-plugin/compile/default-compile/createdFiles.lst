@@ -1,0 +1,4 @@
+com\example\demo\DemoApplication.class
+com\generated\api\model\User.class
+com\generated\api\service\UserService.class
+com\generated\api\controller\UserController.class
